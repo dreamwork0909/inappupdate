@@ -25,7 +25,7 @@ buildscript {
 * Add the dependency to your app `build.gradle` file
 ```groovy
 dependencies {  
-    implementation 'com.dkaratzas:android-inapp-update:1.0.5'
+    implementation 'com.atrader:android-inapp-update:1.0.5'
 }
 ```
   
